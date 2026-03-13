@@ -230,8 +230,8 @@ Link video presentasi dapat dilihat di:
 * OpenCV Documentation
   [https://opencv.org](https://opencv.org)
 
-* Tutorial OpenCV Python
-
+* Tutorial OpenCV Python #https://youtu.be/AI56o4lJETM?si=5-D1vRFGjZ5BPEVS
+# https://youtu.be/AI56o4lJETM?si=5-D1vRFGjZ5BPEVS
 ---
 
 # ⭐ Kesimpulan
