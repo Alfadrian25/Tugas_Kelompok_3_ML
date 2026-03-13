@@ -230,8 +230,8 @@ Link video presentasi dapat dilihat di:
 * OpenCV Documentation
   [https://opencv.org](https://opencv.org)
 
-* Tutorial OpenCV Python #https://youtu.be/AI56o4lJETM?si=5-D1vRFGjZ5BPEVS
-# https://youtu.be/AI56o4lJETM?si=5-D1vRFGjZ5BPEVS
+* #3 Facerecogition - OpenCV | Image Color Conversion & Drawing Tool https://youtu.be/AI56o4lJETM?si=5-D1vRFGjZ5BPEVS
+
 ---
 
 # ⭐ Kesimpulan
