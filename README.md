@@ -194,13 +194,13 @@ Teknik ini sering digunakan pada **Object Detection dalam Computer Vision**.
 1️⃣ Clone repository ini
 
 ```bash
-git clone https://github.com/USERNAME/NAMA-REPO.git
+git clone https://github.com/Alfadrian25/Tugas_Kelompok_3_ML.git
 ```
 
 2️⃣ Masuk ke folder project
 
 ```bash
-cd NAMA-REPO
+cd Tugas_Kelompok_3_ML
 ```
 
 3️⃣ Install library yang dibutuhkan
