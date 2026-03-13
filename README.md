@@ -244,9 +244,3 @@ Dari praktik ini dapat dipahami bahwa **OpenCV merupakan library yang sangat pow
 * pemrosesan video
 * manipulasi pixel
 * serta pembuatan sistem berbasis AI seperti Object Detection.
-
----
-
-````
-
----
