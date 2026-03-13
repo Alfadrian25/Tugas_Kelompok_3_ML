@@ -24,11 +24,11 @@ Project ini dibuat sebagai bagian dari **tugas praktikum Machine Learning**.
 
 # 👨‍💻 Anggota Kelompok
 
-**- Alfadrian Januarsyah (231001067)**
-**- Tasri Zulfitriyati (231001074)**   
-**- M. Irvan Maualana P. (231001071)** 
-**- Nabila Isnaeni (231001054)** 
-**- Silvia Fasya Aprilian (231001002)** 
+**- Alfadrian Januarsyah (231001067)** <br>
+**- Tasri Zulfitriyati (231001074)** <br> 
+**- M. Irvan Maualana P. (231001071)** <br>
+**- Nabila Isnaeni (231001054)** <br>
+**- Silvia Fasya Aprilian (231001002)** <br>
 
 ---
 
