@@ -221,7 +221,7 @@ jupyter notebook
 
 Link video presentasi dapat dilihat di:
 
-# https://youtu.be/q5YJyNpMsnw?si=Oe3jfZR5SSMsmevx
+# https://youtu.be/u5VX0HKFGZI?si=ESOKRW3UebKIXsBp
 
 ---
 
